@@ -6,8 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task2/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/task3/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/task3/src/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/task4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task5/src" isTestSource="false" />
     </content>
